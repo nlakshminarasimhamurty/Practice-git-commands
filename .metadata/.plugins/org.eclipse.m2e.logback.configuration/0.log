@@ -50,3 +50,7 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2020-04-18 11:22:18,397 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-04-18 11:25:08,365 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-04-18 11:25:08,373 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-18 11:25:08,375 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-18 11:25:08,380 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-18 11:37:30,626 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-18 11:37:30,642 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
